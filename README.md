@@ -6,6 +6,14 @@ API: "https://pixabay.com"
 
 ## Imágenes
 
+## Tecnologías
+
+• HTML  
+• CSS  
+• Javascript  
+• React JS  
+• Bootswatch
+
 ## Instalación
 
 1 - Clonar el repositorio  
