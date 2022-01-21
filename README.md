@@ -6,6 +6,8 @@ API: "https://pixabay.com"
 
 ## Imágenes
 
+![imagenes](https://user-images.githubusercontent.com/88584244/150532451-80dea972-669a-4e81-bb66-dd54ea2b4336.png)
+
 ## Tecnologías
 
 • HTML  
